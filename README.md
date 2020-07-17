@@ -25,7 +25,7 @@
 - 更多的报道需求，请与思否编辑团队进行深度沟通交流
 
 
-## 三、对于开源项目有哪些要求？
+## 三、对于开源项目有一些要求？
 
 - 个人项目、团队项目、商业开源项目都可以申请参与；
 - 开源项目需要有明确的应用场景以及较高的项目质量；
@@ -33,3 +33,50 @@
 - 有意向的开源项目负责人或团队成员，可通过邮箱提供相应的信息（开源项目地址、项目介绍、团队介绍、联系方式等），以便提升交流的效率。
 
 联系邮箱：pr@segmentfault.com
+
+## 四、已参选项目一览
+
+smartParsePro：基于地址的智能识别项目
+https://segmentfault.com/a/1190000023085504
+
+uPic：支持多图床的 Mac 端图床(文件)上传客户端
+https://segmentfault.com/a/1190000022975170
+
+WGCLOUD：高性能高并发的分布式监控平台
+https://segmentfault.com/a/1190000023215992
+
+DeFiBus：基于开源消息中间件打造的分布式金融级消息总线
+https://segmentfault.com/search?q=sfossp
+
+Choerodon：开源多云应用敏捷全链路技术平台
+https://segmentfault.com/a/1190000023273389
+
+SPUG：轻量级无 Agent 的自动化运维平台
+https://segmentfault.com/a/1190000022683048
+
+WP Editor.md：WordPress 下的 Markdown 编辑器插件
+https://segmentfault.com/a/1190000022752985
+
+JustAuth：超全的整合第三方登录的开源库
+https://segmentfault.com/a/1190000022840091
+
+DataX Web：简洁易用的离线数据同步工具
+https://segmentfault.com/a/1190000023042981
+
+思否开源项目推介丨Hyperf：基于 Swoole 4.4+ 实现的 PHP 协程框架
+https://segmentfault.com/a/1190000022817341
+
+WeCube：一站式 IT 架构管理和运维管理工具
+https://segmentfault.com/a/1190000023159632
+
+Knife4j：Java MVC 框架集成 Swagger 生成 API 文档的增强工具
+https://segmentfault.com/a/1190000023134772
+
+KubeSphere: 面向云原生应用的容器混合云
+https://segmentfault.com/a/1190000022945376
+
+TDengine：专为物联网而生的大数据平台
+https://segmentfault.com/a/1190000022891792
+
+持续更新中...
+
